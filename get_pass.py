@@ -1,3 +1,5 @@
+#This is just for training purpose. Not applicable in realife, security wise!
+
 first_name = input("Please enter your name:").title()
 password = "W@12"
 
